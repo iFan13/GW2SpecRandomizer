@@ -9,3 +9,4 @@ On second click, speed decelerates by number of units randomly set.
 
 Once come to a full stop, image snaps back or forwards to where the arrow points.
 
+Action visible on [youtube] (https://youtu.be/cgSal1wh5eU)
